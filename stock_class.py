@@ -7,9 +7,9 @@ Created on Fri Sep 10 11:18:58 2021
 
 class Stock:
     def __init__(self, symbol, name, shares):
-        self._symbol = symbol
-        self._name = name
-        self._shares = shares
+        self.symbol = symbol
+        self.name = name
+        self.shares = shares
         self.DataList = []
         
     def add_data(self, stock_data):
