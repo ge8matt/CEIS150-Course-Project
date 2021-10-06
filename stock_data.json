@@ -1,0 +1,16 @@
+{
+    "Stock": [
+        {
+            "symbol": "MSFT",
+            "name": "Microsoft",
+            "shares": 200.0,
+            "DataList": []
+        },
+        {
+            "symbol": "TSLA",
+            "name": "Tesla",
+            "shares": 400.0,
+            "DataList": []
+        }
+    ]
+}
